@@ -161,7 +161,7 @@ int main()
 			break;
 		 case '8':
 		 	system("CLS");
-			cout<<"\n\n\t\t\tBrought To You By code-projects.org";
+			cout<<"\n\n\t\t\t Thanks for visiting";
 			break;
 		 default :cout<<"\a";
 		}
